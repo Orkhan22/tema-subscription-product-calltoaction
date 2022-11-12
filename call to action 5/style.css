@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  height: 616px;
+  width: 1440px;
+  left: 1747px;
+  top: -256px;
+  border-radius: 0px;
+}
+
+#page {
+  height: 616px;
+  width: 1050px;
+  left: 195px;
+  top: 0px;
+  border-radius: 0px;
+  padding: 160px 0px 112px 0px;
+}
+#page .main {
+  height: 344px;
+  width: 607px;
+  left: 221.5px;
+  top: 160px;
+  border-radius: 0px;
+  text-align: center;
+  position: relative;
+}
+#page .info {
+  height: 200px;
+  width: 600px;
+  left: 18px;
+  top: 0px;
+  border-radius: 0px;
+  position: relative;
+}
+#page .info h6 {
+  height: 24px;
+  width: 209px;
+  left: 181px;
+  top: 0px;
+  border-radius: nullpx;
+  position: relative;
+  color: #23a6f0;
+}
+#page .info h2 {
+  height: 100px;
+  width: 571px;
+  left: 0px;
+  top: 22px;
+  border-radius: nullpx;
+  font-weight: 700;
+  position: relative;
+}
+#page .info p {
+  height: 40px;
+  width: 447px;
+  left: 62px;
+  top: 126px;
+  border-radius: nullpx;
+  position: absolute;
+  opacity: 0.6;
+}
+#page .image {
+  display: flex;
+  height: 90px;
+  width: 502px;
+  left: 34.5px;
+  top: 254px;
+  border-radius: 0px;
+  padding-left: 70;
+}
+#page .image .black img {
+  height: 90px;
+  width: 248px;
+  left: 0px;
+  top: 0px;
+  border-radius: 10px;
+}
+#page .image .white img {
+  height: 90px;
+  width: 244px;
+  left: 258px;
+  top: 0px;
+  border-radius: 10px;
+}/*# sourceMappingURL=style.css.map */

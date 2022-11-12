@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+#page {
+  height: 756px;
+  width: 1440px;
+  left: 747px;
+  top: 596px;
+  background-image: url("./imahge/unsplash_XEmaJaM-4nE.svg");
+}
+
+.container {
+  height: 782.0001220703px;
+  width: 1050px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 112px 0px;
+}
+.container .box {
+  height: 558px;
+  width: 769px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 0px;
+  padding: 80px;
+}
+.container .box .main {
+  height: 558px;
+  width: 769px;
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  border-radius: 0px;
+}
+.container .box .main h2 {
+  height: 100px;
+  width: 432px;
+  left: 18.5px;
+  top: 0px;
+  border-radius: nullpx;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: 0.200000003px;
+  text-align: center;
+}
+.container .box .main p {
+  height: 40px;
+  width: 463px;
+  left: 0px;
+  top: 110px;
+  border-radius: nullpx;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.200000003px;
+  text-align: center;
+}
+.container .box .main .text .yazi {
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: 0.200000003px;
+  text-align: center;
+  height: 50px;
+  width: 619px;
+}
+.container .box .main .input {
+  height: 58px;
+  width: 600px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.container .box .main .input .email {
+  height: 58px;
+  width: 600px;
+}
+.container .box .main .input .button {
+  height: 58px;
+  width: 117px;
+  position: absolute;
+  background-color: #23a6f0;
+  color: white;
+  border: none;
+}
+.container .box .main .icon {
+  height: 50px;
+  width: 135px;
+}/*# sourceMappingURL=style.css.map */

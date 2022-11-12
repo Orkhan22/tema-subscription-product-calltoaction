@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+#page {
+  height: 620px;
+  width: 1440px;
+  left: 1747px;
+  top: 460px;
+  border-radius: 0px;
+  background-image: url(./asset/image/background.svg);
+}
+#page .main {
+  height: 620px;
+  width: 1050px;
+  left: 195px;
+  top: 0px;
+  border-radius: 0px;
+  padding: 112px 0px 112px 0px;
+}
+#page .box {
+  width: 700;
+  height: 300px;
+  border: 5px solid rgb(255, 255, 255);
+  margin: 0;
+  left: 178.5px;
+  top: 120px;
+  padding: 80px;
+  position: absolute;
+}
+#page .info {
+  height: 396px;
+  width: 805px;
+  left: 122.5px;
+  top: 112px;
+  border-radius: 0px;
+  padding: 80px;
+  position: absolute;
+  text-align: center;
+}
+#page .info h2 {
+  height: 50px;
+  width: 645px;
+  left: 0px;
+  top: 0px;
+  border-radius: nullpx;
+  font-weight: 700;
+  color: white;
+  font-size: 35;
+}
+#page .info p {
+  height: 40px;
+  width: 463px;
+  left: 91px;
+  top: 5px;
+  border-radius: nullpx;
+  opacity: 0.6;
+  color: white;
+  font-weight: 400;
+  font-size: 12;
+  position: relative;
+}
+#page .info button {
+  height: 52px;
+  width: 285px;
+  left: 260px;
+  top: 210px;
+  border-radius: 5px;
+  padding: 15px 40px 15px 40px;
+  background-color: #23a6f0;
+  color: white;
+  font-size: 14;
+  font-style: inherit;
+}/*# sourceMappingURL=style.css.map */

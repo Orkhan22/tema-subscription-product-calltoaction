@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  width: 100%;
+  height: auto;
+}
+
+#page .container {
+  height: 534px;
+  width: 1050px;
+  left: 195px;
+  top: 0px;
+  border-radius: 0px;
+  padding: 112px 0px 112px 0px;
+}
+#page .main {
+  height: 310px;
+  width: 607px;
+  left: 221.5px;
+  top: 112px;
+  border-radius: 0px;
+  text-align: center;
+}
+#page .main .image img {
+  width: 50px;
+  left: 267.5px;
+  top: 0px;
+  padding-bottom: 36px;
+}
+#page .main .info {
+  height: 202px;
+  width: 609px;
+  left: -1px;
+  top: 108px;
+  border-radius: 0px;
+}
+#page .main .info h1 {
+  height: 50px;
+  width: 609px;
+  left: 0px;
+  top: 0px;
+  letter-spacing: 3px;
+  font-weight: 700;
+}
+#page .main .info button {
+  margin-bottom: 30px;
+  background-color: #23a6f0;
+  height: 52px;
+  width: 141px;
+  left: 0px;
+  top: 0px;
+  border-radius: 5px;
+  padding: 15px 40px 15px 40px;
+  border-color: #23a6f0;
+}
+#page .main .info .learn {
+  background-color: white;
+  height: 52px;
+  width: 162px;
+  left: 151px;
+  top: 0px;
+  border-radius: 5px;
+  padding: 15px 40px 15px 40px;
+  border-color: #23a6f0;
+  color: #23a6f0;
+}
+#page .main .info p {
+  height: 40px;
+  width: 447px;
+  left: 81px;
+  top: 162px;
+  border-radius: nullpx;
+  text-align: center;
+  display: inline-block;
+}/*# sourceMappingURL=style.css.map */
